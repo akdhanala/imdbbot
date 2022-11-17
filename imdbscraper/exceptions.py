@@ -1,2 +1,0 @@
-class IMDBScraperAppException(Exception):
-    pass

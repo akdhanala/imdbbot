@@ -1,5 +1,5 @@
-# IMDb Parser
-I made this parser to make FabFlix (CS122b project) prettier. Amazon does provide data
+# IMDb Bot
+I made this bot to make FabFlix (CS122b project) prettier. Amazon does provide data
 sets but these didn't meet my needs. Rapidapi also provides endpoints for movie posters
 but this also had a request cap that I was definitely going to exceed.
 
