@@ -1,0 +1,17 @@
+# venv files
+venv
+
+# Google Chromium Driver
+chromedriver.exe
+
+# sensitive environment files
+.env
+
+# ipynb checkpoints
+.ipynb_checkpoints
+
+# log files
+logs/*
+
+# python cache
+__pycache__
